@@ -1,4 +1,3 @@
-![Unknown-2](https://github.com/user-attachments/assets/a842dbac-8e3a-41b8-95dc-9df70f2e1130)
 # Income Classification using Machine Learning
 
 This repository contains code to classify income level (<=50K or >50K) using various machine learning models, including **Support Vector Machines (SVM)** and **Random Forest Classifier (RFC)**. The project demonstrates data preprocessing, feature encoding, model training, and evaluation.
@@ -51,6 +50,10 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 - **Feature Pair Plot**: Visualizes relationships between features using Seaborn pair plots.
 - **ROC Curve**: Displays ROC curves comparing SVM and RFC classifiers.
+
+- ![Unknown-2](https://github.com/user-attachments/assets/a842dbac-8e3a-41b8-95dc-9df70f2e1130)
+![Unknown](https://github.com/user-attachments/assets/96c0eae0-0502-48cd-a109-bae0218e40af)
+
 
 ## License
 
