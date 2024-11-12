@@ -1,7 +1,3 @@
-Here’s a sample README for your GitHub repository, highlighting the main functionality of the code:
-
----
-
 # Income Classification using Machine Learning
 
 This repository contains code to classify income level (<=50K or >50K) using various machine learning models, including **Support Vector Machines (SVM)** and **Random Forest Classifier (RFC)**. The project demonstrates data preprocessing, feature encoding, model training, and evaluation.
@@ -31,7 +27,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/income-classification.git
+   git clone https://github.com/3ddy98/Adult-Income-SVC.git
    ```
 
 2. Run the main code file to preprocess data, train models, and evaluate results:
